@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Welcome to Ayuhplus!",
+    "paragraph": "At Ayuhplus, we believe in more than just treating symptoms; we’re committed to providing holistic care that addresses both the physical and emotional well-being of our patients."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At Ayuhplus, we’re more than just a medical facility; we’re a compassionate community dedicated to your well-being.Our mission is to empower patients with knowledge, support, and personalized care. We believe that informed patients make better health decisions.Our practice embraces innovation. From telehealth services to advanced diagnostics, we stay ahead in healthcare.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Best Facilities",
+      "Unique Qualities and Values",
+      "24-Hour Patient Communication",
+      "High Skiiled Experts"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Best Facilities",
+      "Unique Qualities and Values",
+      "24-Hour Patient Communication",
+      "High Skiiled Experts"
     ]
   },
   "Gallery": [
@@ -67,68 +67,70 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-bullhorn",
+      "name": "Q&A Sessions",
+      "text": " Recently visited the health check-up department. The entire process, from check-in to completion, was seamless. The staff was courteous, helpful, and attentive."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Physical Visit ",
+      "text": " Recently visited the health check-up department. The entire process, from check-in to completion, was seamless. The staff was courteous, helpful, and attentive."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Videocall & Chat System",
+      "text": " Recently visited the health check-up department. The entire process, from check-in to completion, was seamless. The staff was courteous, helpful, and attentive."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Live Broadcasting",
+      "text": " Recently visited the health check-up department. The entire process, from check-in to completion, was seamless. The staff was courteous, helpful, and attentive."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Diagnostic Report",
+      "text": " Recently visited the health check-up department. The entire process, from check-in to completion, was seamless. The staff was courteous, helpful, and attentive."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Pharma Report",
+      "text": " Recently visited the health check-up department. The entire process, from check-in to completion, was seamless. The staff was courteous, helpful, and attentive."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\" Recently visited the health check-up department. The entire process, from check-in to completion, was seamless. The staff was courteous, helpful, and attentive.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\" Recently visited the health check-up department. The entire process, from check-in to completion, was seamless. The staff was courteous, helpful, and attentive.\"",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\" Recently visited the health check-up department. The entire process, from check-in to completion, was seamless. The staff was courteous, helpful, and attentive.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\" Recently visited the health check-up department. The entire process, from check-in to completion, was seamless. The staff was courteous, helpful, and attentive.\"",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\" Recently visited the health check-up department. The entire process, from check-in to completion, was seamless. The staff was courteous, helpful, and attentive.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\" Recently visited the health check-up department. The entire process, from check-in to completion, was seamless. The staff was courteous, helpful, and attentive.\"",
       "name": "Johnathan Doe"
     }
   ],
+
+
   "Team": [
     {
       "img": "img/team/01.jpg",
@@ -151,6 +153,8 @@
       "job": "Project Manager"
     }
   ],
+
+
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 123 456 1234",
@@ -158,27 +162,28 @@
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
+
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Doctor Counsltancy",
+      "text": "We treat the whole person, not just symptoms. Our approach considers physical, emotional, and social aspects of health."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Pharma Counsltancy",
+      "text": "We treat the whole person, not just symptoms. Our approach considers physical, emotional, and social aspects of health."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Diagnostic Counsltancy",
+      "text": "We treat the whole person, not just symptoms. Our approach considers physical, emotional, and social aspects of health."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Online and Offline Checkup ",
+      "text": "We treat the whole person, not just symptoms. Our approach considers physical, emotional, and social aspects of health."
     }
   ]
 }
